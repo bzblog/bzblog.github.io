@@ -4,7 +4,7 @@ SEOTitle: bz的博客 | BZ Blog
 header-img: timg.jpg
 email: 123@gmail.com
 description: "老公生日快乐."
-keyword: "Bz, Apple, iPhone"
+keyword: "Bz, happy-birthday, gift"
 url: "http://bzblog.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bzblog/bzblog.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/bzblog/bzblog.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "老公我爱你!"
-sidebar-avatar: /img/xiaoli.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/xiaoli.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
